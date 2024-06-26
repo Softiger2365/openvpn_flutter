@@ -118,7 +118,7 @@ public class SwiftOpenVPNFlutterPlugin: NSObject, FlutterPlugin {
 }
 
 
-@available(iOS 9.0, *)
+@available(macOS 11.0, *)
 class VPNUtils {
     var providerManager: NETunnelProviderManager!
     var providerBundleIdentifier : String?
