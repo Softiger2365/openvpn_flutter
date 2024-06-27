@@ -5,7 +5,7 @@ homepage: https://github.com/nizwar/openvpn_flutter
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
-  flutter: ">=2.5.0"
+  flutter: ">=3.16.0"
 
 dependencies:
   flutter:
